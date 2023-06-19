@@ -1,0 +1,43 @@
+.grid-container {
+  /* Grid properties below this line */
+  display: grid;
+  grid-template-rows: repeat(4, 8rem);
+  grid-template-columns: repeat(3, 33.3%);
+
+  /* Grid properties above this line */
+}
+
+#item-1 {
+  /* Grid properties below this line */
+  background-color: aqua;
+  /* Grid properties above this line */
+}
+
+#item-2 {
+  /* Grid properties below this line */
+  background-color: pink;
+  /* Grid properties above this line */
+}
+
+#item-3 {
+  /* Grid properties below this line */
+  background-color: yellow;
+  /* Grid properties above this line */
+}
+#item-4 {
+  /* Grid properties below this line */
+  background-color: sandybrown;
+  /* Grid properties above this line */
+}
+
+#item-5 {
+  /* Grid properties below this line */
+  background-color: orange;
+  /* Grid properties above this line */
+}
+
+#item-6 {
+  /* Grid properties below this line */
+  background-color: red;
+  /* Grid properties above this line */
+}
